@@ -1,2 +1,1 @@
 # Solved-Question
-Solved Question
